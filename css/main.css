@@ -3,3 +3,7 @@
 body{
   background-color:#af8cff;
 }
+
+.title{
+    font: oblique bold 120% cursive;
+}
